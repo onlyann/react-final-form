@@ -1,5 +1,5 @@
 {
-  "name": "react-final-form",
+  "name": "@onlyann/react-final-form",
   "version": "6.3.2-alpha",
   "description": "🏁 High performance subscription-based form state management for React",
   "main": "dist/react-final-form.cjs.js",
@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/final-form/react-final-form.git"
+    "url": "https://github.com/onlyann/react-final-form.git"
   },
   "bugs": {
     "url": "https://github.com/final-form/react-final-form/issues"
   },
-  "homepage": "https://github.com/final-form/react-final-form#readme",
+  "homepage": "https://github.com/onlyann/react-final-form#readme",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
